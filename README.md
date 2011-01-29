@@ -7,7 +7,7 @@ Also, set up to be easily deployed to Heroku.
 
 ### Try it
 
-hit http://rawrjson.heroku.com/?url=http://twitter.com/status/user_timeline/tbeseda.json&callback=RAWR
+[hit](http://rawrjson.heroku.com/?url=http://twitter.com/status/user_timeline/tbeseda.json&callback=RAWR)
 
 ### TODO
 * lots
